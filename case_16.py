@@ -8,7 +8,6 @@ x = int(input('Введите число Х '))
 def Result(n,x):
     list_1 = []
     k = 0
-
     for i in range(1,n+1):
         # list_1.append(i)
         list_1.append(random.randint(1, n+1))

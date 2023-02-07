@@ -18,4 +18,3 @@ def get_fibonacci(n):
 
 fibo_digits = get_fibonacci(n)
 print(get_fibonacci(n))
-# print(fibo_digits.index(0))
